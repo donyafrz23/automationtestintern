@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_To Do (current)Done</name>
+   <tag></tag>
+   <elementGuidId>27d9ace4-58bb-4f48-ae66-98b8513342cd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>select.js-select-list</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='chrome-container']/div[4]/div/div[2]/div/div/div/div/div[2]/div/select</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>f43fa217-0ef4-4762-a596-5fc19082502d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>js-select-list</value>
+      <webElementGuid>9ce6cf1a-72f1-4197-9bbd-b0f3bdefda97</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>To Do (current)Done</value>
+      <webElementGuid>5b78d853-8894-49a8-9152-98822b7c301f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;chrome-container&quot;)/div[@class=&quot;pop-over is-shown&quot;]/div[@class=&quot;no-back&quot;]/div[2]/div[@class=&quot;pop-over-content js-pop-over-content u-fancy-scrollbar js-tab-parent&quot;]/div[1]/div[1]/div[@class=&quot;pop-over-section&quot;]/div[@class=&quot;form-grid&quot;]/div[@class=&quot;button-link setting form-grid-child form-grid-child-threequarters&quot;]/select[@class=&quot;js-select-list&quot;]</value>
+      <webElementGuid>e6ab66bb-77ac-4145-95ee-1ff74dd56207</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='chrome-container']/div[4]/div/div[2]/div/div/div/div/div[2]/div/select</value>
+      <webElementGuid>d2c27512-36e6-4641-9be7-852fcf814b91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='List'])[3]/following::select[1]</value>
+      <webElementGuid>433519ea-7003-4338-ad66-901e2eb972ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='To Do'])[4]/following::select[1]</value>
+      <webElementGuid>f4af09eb-4a8c-4ebb-8a0f-b675817ce572</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Position'])[1]/preceding::select[1]</value>
+      <webElementGuid>964297fb-af8e-448f-b573-d4d2cc485731</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Position'])[2]/preceding::select[1]</value>
+      <webElementGuid>41b496c9-d1e0-439a-92a2-e1f28824cad0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/select</value>
+      <webElementGuid>de8a6a12-df7d-4c8e-9b1d-c3e2390b7e79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[(text() = 'To Do (current)Done' or . = 'To Do (current)Done')]</value>
+      <webElementGuid>8474329b-acfb-465e-965a-040aa3c54170</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

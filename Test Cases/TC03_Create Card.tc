@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify user can make a card in To Do list</description>
+   <name>TC03_Create Card</name>
+   <tag>card</tag>
+   <comment></comment>
+   <testCaseGuid>f21336a0-faf1-4411-b7ca-d95d8c83bd15</testCaseGuid>
+</TestCaseEntity>

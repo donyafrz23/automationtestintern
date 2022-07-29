@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_27</name>
+   <tag></tag>
+   <elementGuidId>e801c0cb-942e-4c58-8258-c45a4afc4fda</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Sat'])[1]/following::div[28]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>da53809c-db32-4fda-81b2-5d267e02b982</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sc-bZQynM fgFWwG</value>
+      <webElementGuid>94369123-e185-4433-a1aa-ee77f60be9aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>27</value>
+      <webElementGuid>0c61ce40-f9d9-43bb-baf2-b261510b4900</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;theme-dark&quot;]/body[@class=&quot;feplat3731 window-up&quot;]/div[@class=&quot;atlaskit-portal-container&quot;]/div[@class=&quot;atlaskit-portal&quot;]/section[@class=&quot;JpK+-eghInruBP js-react-root&quot;]/div[@class=&quot;gJnViNu1Yqy4Og pt-0&quot;]/div[@class=&quot;js-react-root&quot;]/form[1]/div[@class=&quot;i75OBvhqAf7FKJ&quot;]/div[1]/div[@class=&quot;sc-EHOje cSuTee&quot;]/table[@class=&quot;sc-bwzfXH iDJxfQ&quot;]/tbody[@class=&quot;sc-htpNat dTVNEi&quot;]/tr[4]/td[@class=&quot;sc-gzVnrw YnPio&quot;]/div[@class=&quot;sc-bZQynM fgFWwG&quot;]</value>
+      <webElementGuid>efe6a478-a6a9-4b04-9734-8bf97153fe96</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sat'])[1]/following::div[28]</value>
+      <webElementGuid>1f2211fe-b2ed-4472-9c66-a414e742a31a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fri'])[1]/following::div[28]</value>
+      <webElementGuid>f16ed3b9-4635-4648-a006-a9429acea33d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Start date'])[2]/preceding::div[15]</value>
+      <webElementGuid>f52364e6-6c1d-4865-ba3f-f24492b1bc24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Due date'])[3]/preceding::div[18]</value>
+      <webElementGuid>dddff4c0-8dfd-4809-a461-bcd1a2853a11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='27']/parent::*</value>
+      <webElementGuid>429427b9-45f6-490d-9eeb-7820a5e1f524</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[4]/td[7]/div</value>
+      <webElementGuid>6aed5c03-3dd5-451e-bda9-470a32e41de7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '27' or . = '27')]</value>
+      <webElementGuid>3be05e76-2ef8-4514-95dd-1ff5c8a174b2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

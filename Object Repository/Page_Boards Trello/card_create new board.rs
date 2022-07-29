@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>card_create new board</name>
+   <tag></tag>
+   <elementGuidId>57ed990a-0f72-4e3a-9c54-aec40ff68198</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.board-tile.mod-add</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/div/div[2]/div/div/div/div/div[2]/div/div/div/div[2]/div/div[2]/ul/li/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4e71ec76-8aa3-4b04-966d-da6945093f7d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>board-tile mod-add</value>
+      <webElementGuid>acebfa0b-fbd3-4b2b-b583-ad4e16d7c369</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Create new board</value>
+      <webElementGuid>d0ba1d2d-dbe1-46cb-a10a-c1be03415172</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/div[@class=&quot;member-boards-view&quot;]/div[@class=&quot;js-boards-page&quot;]/div[@class=&quot;js-react-root&quot;]/div[1]/div[@class=&quot;home-container&quot;]/div[@class=&quot;home-sticky-container&quot;]/div[@class=&quot;all-boards&quot;]/div[1]/div[@class=&quot;content-all-boards&quot;]/div[@class=&quot;js-react-root&quot;]/div[2]/div[@class=&quot;boards-page-board-section mod-no-sidebar&quot;]/div[2]/ul[@class=&quot;boards-page-board-section-list&quot;]/li[@class=&quot;boards-page-board-section-list-item&quot;]/div[@class=&quot;board-tile mod-add&quot;]</value>
+      <webElementGuid>15d1772b-f476-4ca2-81c1-5fa64f95cbe5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/div/div[2]/div/div/div/div/div[2]/div/div/div/div[2]/div/div[2]/ul/li/div</value>
+      <webElementGuid>618f6f1c-ba59-48fb-9892-b4dbd871f858</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Upgrade'])[1]/following::div[2]</value>
+      <webElementGuid>7a94d1ce-08b5-4125-9809-c864fbfda62d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Settings'])[2]/following::div[5]</value>
+      <webElementGuid>abb24881-b169-4319-9a0b-ecd8ece9a351</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='GUEST WORKSPACES'])[1]/preceding::div[1]</value>
+      <webElementGuid>e681e6ef-6f5d-4de5-9c58-0c0289dde572</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/ul/li/div</value>
+      <webElementGuid>d7fc491d-db2b-4f4b-a838-2bc228e2f266</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Create new board' or . = 'Create new board')]</value>
+      <webElementGuid>32811939-83eb-4fa9-bb30-e74e76b9ac84</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

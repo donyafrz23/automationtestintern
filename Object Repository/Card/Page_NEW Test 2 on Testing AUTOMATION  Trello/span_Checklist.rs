@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Checklist</name>
+   <tag></tag>
+   <elementGuidId>01e678fb-7753-43ec-bc82-690d18ab8acd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.button-link.js-add-checklist-menu > span.js-sidebar-action-text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='chrome-container']/div[3]/div/div/div/div[5]/div[2]/div/a[3]/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b93516d0-3752-42fa-8226-e3b2837482e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>js-sidebar-action-text</value>
+      <webElementGuid>ea379f65-cc53-4267-a4a9-f4b628576c87</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Checklist</value>
+      <webElementGuid>e0a70ebb-b88d-47f8-a17b-3a24e7bf8f85</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;chrome-container&quot;)/div[@class=&quot;window-overlay&quot;]/div[@class=&quot;window&quot;]/div[@class=&quot;window-wrapper js-autofocus js-tab-parent&quot;]/div[@class=&quot;card-detail-window u-clearfix&quot;]/div[@class=&quot;window-sidebar&quot;]/div[@class=&quot;window-module u-clearfix&quot;]/div[@class=&quot;u-clearfix&quot;]/a[@class=&quot;button-link js-add-checklist-menu&quot;]/span[@class=&quot;js-sidebar-action-text&quot;]</value>
+      <webElementGuid>c13a5639-6b8e-45d1-875a-2bb91e160dee</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='chrome-container']/div[3]/div/div/div/div[5]/div[2]/div/a[3]/span[2]</value>
+      <webElementGuid>b8792f06-b025-463f-9d5c-242326626371</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Labels'])[2]/following::span[2]</value>
+      <webElementGuid>543f25b5-9ad8-48d3-806a-d1242dcbdd0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Members'])[3]/following::span[4]</value>
+      <webElementGuid>dde81a97-8335-4fd0-afa4-dcd6033f8568</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dates'])[1]/preceding::span[3]</value>
+      <webElementGuid>2742650a-eb82-460d-bf81-40a90b056d00</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Attachment'])[1]/preceding::span[5]</value>
+      <webElementGuid>fa81889d-5d75-4b70-839e-d3d161547b95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Checklist']/parent::*</value>
+      <webElementGuid>81c0ac5c-a411-4a51-96ab-3bc115ba4e85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/a[3]/span[2]</value>
+      <webElementGuid>2cdf50d8-ccd1-47d6-bb3e-e422d7fb488d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Checklist' or . = 'Checklist')]</value>
+      <webElementGuid>4bf68c23-5014-4b68-a93e-4aeef4b4f46d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

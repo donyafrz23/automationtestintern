@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>textarea_Add an item_edit field checklist-n_946f0c</name>
+   <tag></tag>
+   <elementGuidId>6a4e9067-6795-4729-8597-6b7322c682fa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>textarea.edit.field.checklist-new-item-text.js-new-checklist-item-input</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='chrome-container']/div[3]/div/div/div/div[4]/div[10]/div/div[5]/textarea</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>textarea</value>
+      <webElementGuid>4fb14dc1-84b6-4a61-bc1d-70f9d3f02a26</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>edit field checklist-new-item-text js-new-checklist-item-input</value>
+      <webElementGuid>40b777a8-5d19-46b0-8da9-5ff4f2879736</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Add an item</value>
+      <webElementGuid>dac449e2-2878-475e-b8ab-3401f6a4feee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-autosize</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>f77b3247-9c0d-4296-a1a8-7256c63e1e4f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;chrome-container&quot;)/div[@class=&quot;window-overlay&quot;]/div[@class=&quot;window&quot;]/div[@class=&quot;window-wrapper js-autofocus js-tab-parent&quot;]/div[@class=&quot;card-detail-window u-clearfix&quot;]/div[@class=&quot;window-main-col&quot;]/div[@class=&quot;checklist-list window-module js-checklist-list js-no-higher-edits ui-sortable&quot;]/div[@class=&quot;checklist&quot;]/div[@class=&quot;editable checklist-new-item u-gutter js-new-checklist-item editing&quot;]/textarea[@class=&quot;edit field checklist-new-item-text js-new-checklist-item-input&quot;]</value>
+      <webElementGuid>d29ffd29-f80c-44ea-9ce0-9a1ec6f8b6b0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='chrome-container']/div[3]/div/div/div/div[4]/div[10]/div/div[5]/textarea</value>
+      <webElementGuid>25901896-fccb-4fdf-8aaa-c5d5e81ff42a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/textarea</value>
+      <webElementGuid>753024f7-82ce-4985-ad67-47ac7c9daa27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//textarea[@placeholder = 'Add an item']</value>
+      <webElementGuid>4271ceb9-fb6f-4e4b-8401-9d2825464531</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

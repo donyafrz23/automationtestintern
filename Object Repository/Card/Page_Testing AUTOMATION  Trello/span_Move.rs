@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Move</name>
+   <tag></tag>
+   <elementGuidId>ef5f4bdc-6ebc-4b7f-b608-e660843a7c3c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.quick-card-editor-buttons-item.js-move-card > span.quick-card-editor-buttons-item-text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='chrome-container']/div[7]/div/div[2]/a[5]/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>7475ea15-c97a-4a25-8245-ced1fa62f8dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>quick-card-editor-buttons-item-text</value>
+      <webElementGuid>de2d4d3a-173b-4721-bc97-b7cc5258d115</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Move</value>
+      <webElementGuid>3517f6bb-f4d4-4a7f-ab0e-5f5d005ccc9f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;chrome-container&quot;)/div[@class=&quot;quick-card-editor&quot;]/div[@class=&quot;quick-card-editor-card&quot;]/div[@class=&quot;quick-card-editor-buttons fade-in&quot;]/a[@class=&quot;quick-card-editor-buttons-item js-move-card&quot;]/span[@class=&quot;quick-card-editor-buttons-item-text&quot;]</value>
+      <webElementGuid>62c8d635-f369-40d2-bf0b-b9653cabc8bc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='chrome-container']/div[7]/div/div[2]/a[5]/span[2]</value>
+      <webElementGuid>0ca2c50d-9e2a-445b-9ebe-89b08116ea57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Change cover'])[1]/following::span[2]</value>
+      <webElementGuid>71607647-4803-4f1c-ba4b-0d469bc7e6db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Change members'])[1]/following::span[4]</value>
+      <webElementGuid>9d46dd09-552d-4ef0-b1b6-f750d5126465</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Copy'])[1]/preceding::span[2]</value>
+      <webElementGuid>3574e9e4-ce89-4838-a474-3f90dc31ad2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit dates'])[1]/preceding::span[4]</value>
+      <webElementGuid>b40cdfe7-b997-49da-bf93-702ea7732b65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Move']/parent::*</value>
+      <webElementGuid>bcd1c306-3610-45bb-9964-54abaa61093c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[5]/span[2]</value>
+      <webElementGuid>fcd61736-cd0d-4688-af96-862f855f1d9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Move' or . = 'Move')]</value>
+      <webElementGuid>b0f1591c-c00b-4c13-8d36-0a98fa4cee45</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

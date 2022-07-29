@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Labels_pop-over-header-close-btn icon-sm icon-close</name>
+   <tag></tag>
+   <elementGuidId>8942c807-2535-492c-97e6-acb8671ec8f0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.pop-over-header-close-btn.icon-sm.icon-close</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='chrome-container']/div[4]/div/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>f229ed5c-030f-4b73-93cf-fd1caf754336</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>a0989cca-eaff-4822-8f62-e8b7e7d98d9f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pop-over-header-close-btn icon-sm icon-close</value>
+      <webElementGuid>1d39f06a-4ddd-4576-9221-9483ff5407b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;chrome-container&quot;)/div[@class=&quot;pop-over is-shown&quot;]/div[@class=&quot;no-back&quot;]/div[@class=&quot;pop-over-header js-pop-over-header&quot;]/a[@class=&quot;pop-over-header-close-btn icon-sm icon-close&quot;]</value>
+      <webElementGuid>aedf19ae-e68d-44a9-ae8a-ab46aca01e51</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='chrome-container']/div[4]/div/div/a</value>
+      <webElementGuid>70e69ec5-b1a8-49fb-8518-344e69bdeded</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[69]</value>
+      <webElementGuid>9f7b9b68-e822-449a-a31b-51c6adaa4484</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/a</value>
+      <webElementGuid>76122d17-c6e5-4397-ae72-4044e2e1e445</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#']</value>
+      <webElementGuid>28113475-3f47-496a-a71c-d8a4f278f6d7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

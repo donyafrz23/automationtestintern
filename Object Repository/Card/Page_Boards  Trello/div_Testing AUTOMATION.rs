@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Testing AUTOMATION</name>
+   <tag></tag>
+   <elementGuidId>d08dcf02-126a-4881-a492-ef37035265e2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/div/div[2]/div/div/div/div/div[2]/div/div/div/div[2]/div/div[2]/ul/li[2]/a/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ed6ed5a1-6471-4695-8b85-043b49d925d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>board-tile-details is-badged</value>
+      <webElementGuid>a852af7d-21ad-4ee5-bdfb-81b2f393a262</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Testing AUTOMATION</value>
+      <webElementGuid>65aba709-1a8a-485b-b82b-76a0301d7b21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/div[@class=&quot;member-boards-view&quot;]/div[@class=&quot;js-boards-page&quot;]/div[@class=&quot;js-react-root&quot;]/div[1]/div[@class=&quot;home-container&quot;]/div[@class=&quot;home-sticky-container&quot;]/div[@class=&quot;all-boards&quot;]/div[1]/div[@class=&quot;content-all-boards&quot;]/div[@class=&quot;js-react-root&quot;]/div[2]/div[@class=&quot;boards-page-board-section mod-no-sidebar&quot;]/div[2]/ul[@class=&quot;boards-page-board-section-list&quot;]/li[@class=&quot;boards-page-board-section-list-item&quot;]/a[@class=&quot;board-tile&quot;]/div[@class=&quot;board-tile-details is-badged&quot;]</value>
+      <webElementGuid>385e60d5-bea9-4f54-b284-661cba71627d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4fe70e26-4117-40d8-9af4-2fc258ff73bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>board-tile-details is-badged</value>
+      <webElementGuid>7ed4bde3-cce5-48fc-9a2d-4acd781206fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Testing AUTOMATION</value>
+      <webElementGuid>e363709b-38c9-4c6c-8234-f2c3fb99d88a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/div[@class=&quot;member-boards-view&quot;]/div[@class=&quot;js-boards-page&quot;]/div[@class=&quot;js-react-root&quot;]/div[1]/div[@class=&quot;home-container&quot;]/div[@class=&quot;home-sticky-container&quot;]/div[@class=&quot;all-boards&quot;]/div[1]/div[@class=&quot;content-all-boards&quot;]/div[@class=&quot;js-react-root&quot;]/div[2]/div[@class=&quot;boards-page-board-section mod-no-sidebar&quot;]/div[2]/ul[@class=&quot;boards-page-board-section-list&quot;]/li[@class=&quot;boards-page-board-section-list-item&quot;]/a[@class=&quot;board-tile&quot;]/div[@class=&quot;board-tile-details is-badged&quot;]</value>
+      <webElementGuid>d88d0b26-5730-478b-bbf1-a07919d1209b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>45ce5c66-4efb-497a-86a0-538475076e66</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>board-tile-details is-badged</value>
+      <webElementGuid>9b9e991a-7c82-41a7-a385-48b5c9cf81c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Testing AUTOMATION</value>
+      <webElementGuid>769b36f8-cecf-4c86-aecc-221c598d32ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/div[@class=&quot;member-boards-view&quot;]/div[@class=&quot;js-boards-page&quot;]/div[@class=&quot;js-react-root&quot;]/div[1]/div[@class=&quot;home-container&quot;]/div[@class=&quot;home-sticky-container&quot;]/div[@class=&quot;all-boards&quot;]/div[1]/div[@class=&quot;content-all-boards&quot;]/div[@class=&quot;js-react-root&quot;]/div[2]/div[@class=&quot;boards-page-board-section mod-no-sidebar&quot;]/div[2]/ul[@class=&quot;boards-page-board-section-list&quot;]/li[@class=&quot;boards-page-board-section-list-item&quot;]/a[@class=&quot;board-tile&quot;]/div[@class=&quot;board-tile-details is-badged&quot;]</value>
+      <webElementGuid>93840c58-dd23-49d8-93ea-5e521dc5695e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c679b67c-6d1d-40f8-858a-0f26340c54ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>board-tile-details is-badged</value>
+      <webElementGuid>e15b39d1-c96e-4195-996c-d3120655f4e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Testing AUTOMATION</value>
+      <webElementGuid>07008290-2a4c-4fed-b860-f5910a56b83a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/div[@class=&quot;member-boards-view&quot;]/div[@class=&quot;js-boards-page&quot;]/div[@class=&quot;js-react-root&quot;]/div[1]/div[@class=&quot;home-container&quot;]/div[@class=&quot;home-sticky-container&quot;]/div[@class=&quot;all-boards&quot;]/div[1]/div[@class=&quot;content-all-boards&quot;]/div[@class=&quot;js-react-root&quot;]/div[2]/div[@class=&quot;boards-page-board-section mod-no-sidebar&quot;]/div[2]/ul[@class=&quot;boards-page-board-section-list&quot;]/li[@class=&quot;boards-page-board-section-list-item&quot;]/a[@class=&quot;board-tile&quot;]/div[@class=&quot;board-tile-details is-badged&quot;]</value>
+      <webElementGuid>56fa9133-8dae-4327-aad0-66094524d4ef</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/div/div[2]/div/div/div/div/div[2]/div/div/div/div[2]/div/div[2]/ul/li[2]/a/div</value>
+      <webElementGuid>ae35e178-9761-4bfa-b498-a46a089575b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='tes'])[1]/following::div[3]</value>
+      <webElementGuid>7efe25a4-545b-40c0-a39a-bb9f9ee65763</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Upgrade'])[1]/following::div[7]</value>
+      <webElementGuid>00e4e7df-02b0-4f6c-a913-8f37aeb5123d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create new board'])[1]/preceding::div[5]</value>
+      <webElementGuid>7e04d6ae-64da-4a6d-8b07-9d4da3b4e6e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/a/div</value>
+      <webElementGuid>f994de39-adb4-4614-9a59-a37b272bf8d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Testing AUTOMATION' or . = 'Testing AUTOMATION')]</value>
+      <webElementGuid>98512a3c-5d3f-428c-960e-d8e3380e15b8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

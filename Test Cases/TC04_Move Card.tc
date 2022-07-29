@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Validate move a New TESTING 1 card to Done list</description>
+   <name>TC04_Move Card</name>
+   <tag>card</tag>
+   <comment></comment>
+   <testCaseGuid>b4d8b76f-ac82-4a24-aba0-768b9115bc43</testCaseGuid>
+</TestCaseEntity>

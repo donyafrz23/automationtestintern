@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_To Do_icon-sm icon-edit list-card-oper_0e5503</name>
+   <tag></tag>
+   <elementGuidId>4502a0c6-1d9a-4541-88cb-5239d8b489aa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.icon-sm.icon-edit.list-card-operation.dark-hover.js-open-quick-card-editor.js-card-menu</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='board']/div/div/div[2]/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>17b37185-ffef-4f12-b238-5d37e53fadbc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon-sm icon-edit list-card-operation dark-hover js-open-quick-card-editor js-card-menu</value>
+      <webElementGuid>80ab1296-1c03-42b9-bdbb-421364ad40e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;board&quot;)/div[@class=&quot;js-list list-wrapper&quot;]/div[@class=&quot;list js-list-content&quot;]/div[@class=&quot;list-cards u-fancy-scrollbar u-clearfix js-list-cards js-sortable ui-sortable&quot;]/a[@class=&quot;list-card js-member-droppable ui-droppable active-card&quot;]/span[@class=&quot;icon-sm icon-edit list-card-operation dark-hover js-open-quick-card-editor js-card-menu&quot;]</value>
+      <webElementGuid>ac215a18-23cd-4070-a68d-a9adf911a9ab</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='board']/div/div/div[2]/a/span</value>
+      <webElementGuid>7207acf2-6eee-43c2-85ad-53ac0ed81888</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a/span</value>
+      <webElementGuid>18acbb2d-2001-4a0b-8bd8-2042102e17b2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

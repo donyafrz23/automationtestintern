@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_3New TESTING 1</name>
+   <tag></tag>
+   <elementGuidId>81a720e6-6372-4b72-a32d-564c64ba9e15</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.list-card-title.js-card-name</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='board']/div/div/div[2]/a/div[3]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>65777e71-2719-43d8-8571-cf4adba6d3e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>list-card-title js-card-name</value>
+      <webElementGuid>f08c1748-f276-47b4-a915-5a6de2cd372a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dir</name>
+      <type>Main</type>
+      <value>auto</value>
+      <webElementGuid>e37ac70d-8b91-461e-bb97-368a87ec4eac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>#3New TESTING 1</value>
+      <webElementGuid>ef7dca0e-4109-4346-bfa2-42682960ce9c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;board&quot;)/div[@class=&quot;js-list list-wrapper&quot;]/div[@class=&quot;list js-list-content&quot;]/div[@class=&quot;list-cards u-fancy-scrollbar u-clearfix js-list-cards js-sortable ui-sortable&quot;]/a[@class=&quot;list-card js-member-droppable ui-droppable active-card&quot;]/div[@class=&quot;list-card-details js-card-details&quot;]/span[@class=&quot;list-card-title js-card-name&quot;]</value>
+      <webElementGuid>2ddde37e-518f-47d8-882a-5b6285184ed0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='board']/div/div/div[2]/a/div[3]/span</value>
+      <webElementGuid>e0a826c5-3b62-44e7-beee-33da95779d2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='To Do'])[2]/following::span[5]</value>
+      <webElementGuid>c8bf9aea-0c32-4513-ad75-994c5bebd92c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='To Do'])[1]/following::span[5]</value>
+      <webElementGuid>216edcfe-3447-4aa5-a181-9be0c654ca2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add a card'])[1]/preceding::span[8]</value>
+      <webElementGuid>636fc193-62b1-422d-bd12-b56dc1ff4ae8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='New TESTING 1']/parent::*</value>
+      <webElementGuid>8a97a0ae-e838-4a3d-b866-f580b1190a90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div[3]/span</value>
+      <webElementGuid>c0b5ed03-b823-4c6e-9a32-39e2e983a39b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '#3New TESTING 1' or . = '#3New TESTING 1')]</value>
+      <webElementGuid>6d13f7cb-d34d-4d67-a577-bb98574f2ce4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

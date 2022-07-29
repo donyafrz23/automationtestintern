@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Log in</name>
+   <tag></tag>
+   <elementGuidId>6f05c84f-81fc-4144-a0ae-c3a7eea3e71e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.css-19r5em7</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='login-submit']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>3d81ef8e-c730-4a20-9cfe-947748e0c9e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-19r5em7</value>
+      <webElementGuid>dfddf7d9-b536-43de-b0e0-701e56dd3145</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Log in</value>
+      <webElementGuid>5efa1c12-b5df-46ae-99f7-f24ba9b60ac2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;login-submit&quot;)/span[@class=&quot;css-19r5em7&quot;]</value>
+      <webElementGuid>1c29d952-565e-4633-9b5f-fc74ac3baaca</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='login-submit']/span</value>
+      <webElementGuid>2dc13965-e14f-42a9-8faf-2f29971b60a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='afrz.dony@gmail.com'])[1]/following::span[3]</value>
+      <webElementGuid>b0c45fcc-5817-473a-9bfe-bc77e0466eba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Trello'])[1]/following::span[4]</value>
+      <webElementGuid>ae0ff372-914b-4c73-96b9-c14bda5e559f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Log in with email'])[1]/preceding::span[4]</value>
+      <webElementGuid>2aea29a7-b2ae-43b6-bc8b-2164accea6ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/span</value>
+      <webElementGuid>2bf4b45f-4ac6-409c-8078-3832b0e69691</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Log in' or . = 'Log in')]</value>
+      <webElementGuid>545ea903-a68f-44b7-8d31-eb7a17f32c60</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

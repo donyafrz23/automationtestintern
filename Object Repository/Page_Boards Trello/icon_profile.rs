@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>icon_profile</name>
+   <tag></tag>
+   <elementGuidId>c272976e-ff5c-46fc-ad74-dc899ff0ce0a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//nav[@id='header']/div[3]/button[3]/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>3c09c650-60c3-40cb-bf89-7dc24438e46f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Dony Afrizal (donyafrizal23)</value>
+      <webElementGuid>6eba2736-513d-4c0b-bc82-805371f995d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p6oJr7SHjK+vLr aqePx81u4BGHTH Glb3QqRGpd64YB</value>
+      <webElementGuid>11315377-5bf1-408f-9b60-b93d6b473d6a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;header&quot;)/div[@class=&quot;e+oPMlZ-fzJD3c&quot;]/button[@class=&quot;suETmwkWYk2Tcl js-open-header-member-menu KZsiSK-MutDEN7 Ts+YceGnvTbKoG _4y7Skbm3OXlhNV JIXQq8gDYY04N6&quot;]/div[@class=&quot;yRPuNUIoZpQWwj&quot;]/span[@class=&quot;p6oJr7SHjK+vLr aqePx81u4BGHTH Glb3QqRGpd64YB&quot;]</value>
+      <webElementGuid>24851684-0c8b-4245-b245-a87ab7c99644</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//nav[@id='header']/div[3]/button[3]/div/span</value>
+      <webElementGuid>0725a777-1c3f-4b66-b08c-15e37254c647</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[3]/div/span</value>
+      <webElementGuid>40859979-413a-43eb-af14-d8b60f95002a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@title = 'Dony Afrizal (donyafrizal23)']</value>
+      <webElementGuid>6470cdbc-04be-4545-8061-2b085f5ed9e1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

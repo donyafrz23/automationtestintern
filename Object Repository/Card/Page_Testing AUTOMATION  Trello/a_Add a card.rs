@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Add a card</name>
+   <tag></tag>
+   <elementGuidId>2cdc38a1-dc05-4aa9-81ce-a10c31349253</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.open-card-composer.js-open-card-composer</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='board']/div/div/div[3]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>c9eea431-5b4e-4652-9d48-79118969bc86</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>open-card-composer js-open-card-composer</value>
+      <webElementGuid>34dfd927-7b58-43e9-9283-90c7bba26106</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>1c2dbc6d-b31b-44d3-8de8-b2f75ad9d86d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add a card</value>
+      <webElementGuid>15042e76-64bb-4972-973d-600b4e44a5cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;board&quot;)/div[@class=&quot;js-list list-wrapper&quot;]/div[@class=&quot;list js-list-content&quot;]/div[@class=&quot;card-composer-container js-card-composer-container&quot;]/a[@class=&quot;open-card-composer js-open-card-composer&quot;]</value>
+      <webElementGuid>63829ec3-3ecd-4703-b145-063246f63a87</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='board']/div/div/div[3]/a</value>
+      <webElementGuid>f76a34a1-3726-4975-b1c0-c8f354208d45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='To Do'])[2]/following::a[2]</value>
+      <webElementGuid>8c7c5c69-f191-4c8a-ae3e-c91b1b984579</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='To Do'])[1]/following::a[2]</value>
+      <webElementGuid>5c9de23f-3e43-42fa-85f2-710d1f84e2ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Done'])[1]/preceding::a[2]</value>
+      <webElementGuid>e1cc3c84-8a34-42d9-a19a-d2e2bf936586</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[8]</value>
+      <webElementGuid>d85805a5-8c9c-4ccb-af29-4e00d7ff4ef5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[3]/a</value>
+      <webElementGuid>52dc153a-8e51-4746-bbd9-1a6024bc4c7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#' and (text() = 'Add a card' or . = 'Add a card')]</value>
+      <webElementGuid>02e58926-1154-4be0-8c3f-2bffa19f0e82</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
